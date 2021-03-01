@@ -1,4 +1,6 @@
 # Richard-Repo-idk
 Lab 4 part 1
 
-pain
+I feel pain
+
+Why do you feel pain?
